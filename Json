@@ -1,0 +1,90 @@
+[
+	{
+		"nombre":"Julian Rodriguez",
+		"edad":20,
+		"identificacion":"1019135478",
+		"telefono":4888926,
+		"correo":"julianrodriguez20@gmail.com",
+		"f_nacimiento":"12/06/2000"
+	},
+	{
+		"nombre":"Andres gonzalez",
+		"edad":22,
+		"identificacion":"1019135448",
+		"telefono":40887526,
+		"correo":"angon@gmail.com",
+		"f_nacimiento":"15/08/1998"
+	},
+	{
+
+		"nombre":"Camilo Farfan",
+		"edad":21,
+		"identificacion":"2019145478",
+		"telefono":5895926,
+		"correo":"camifar@gmail.com",
+		"f_nacimiento":"19/07/1999"
+	},
+	{
+
+		"nombre":"Gabriel Perez",
+		"edad":19,
+		"identificacion":"5019135478",
+		"telefono":3188926,
+		"correo":"gabpe@gmail.com",
+		"f_nacimiento":"08/01/2001"
+	},
+	{
+
+		"nombre":"Daniel Martinez",
+		"edad":22,
+		"identificacion":"4554135478",
+		"telefono":7559926,
+		"correo":"damar@gmail.com",
+		"f_nacimiento":"29/05/1998"
+	},
+	{
+
+		"nombre":"Martin Diaz",
+		"edad":20,
+		"identificacion":"1013966978",
+		"telefono":1234926,
+		"correo":"mardi@gmail.com",
+		"f_nacimiento":"31/01/2000"
+	},
+	{
+
+		"nombre":"Santiago Patarroyo",
+		"edad":18,
+		"identificacion":"3795135478",
+		"telefono":9165926,
+		"correo":"sanpa@gmail.com",
+		"f_nacimiento":"19/10/2001"
+	},
+	{
+
+		"nombre":"Alejandro Avella",
+		"edad":18,
+		"identificacion":"6545135478",
+		"telefono":4802586,
+		"correo":"aleve@gmail.com",
+		"f_nacimiento":"05/10/2001"
+	},
+	{
+
+		"nombre":"Kevin Hernandez",
+		"edad":21,
+		"identificacion":"301657",
+		"telefono":9630145,
+		"correo":"kevher@gmail.com",
+		"f_nacimiento":"24/09/1998"
+	},
+	{
+
+		"nombre":"Leonardo Castañeda",
+		"edad":20,
+		"identificacion":"1236547980",
+		"telefono":8524,
+		"correo":"leocas@gmail.com",
+		"f_nacimiento":"08/03/2000"
+	}
+]
